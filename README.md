@@ -54,7 +54,7 @@ skip directly to phase two.
     * ***required*** for Bay Trail, Braswell, and Apollo Lake models
     * ***recommended*** for Broadwell, Skylake, and Kaby Lake models
     * ***optional*** for Haswell models
-    * ***not possible*** for ARM/Pineview/Gemini Lake
+    * ***not possible*** for ARM, Pineview, and Gemini Lake models
 1. **Download and run chrx**
     * `curl https://chrx.org/ | sudo tar xzfC - /usr/local && chrx`
     * Several [options](#options) are available to customize your installation
