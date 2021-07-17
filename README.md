@@ -3,7 +3,8 @@
 Install Linux onto your Chromebook. Dual-boot alongside ChromeOS for maximum flexibility.
 
 This fork of chrx changes the default core image file for Fedora, so you won't keep getting fatal errors when attempting to install Fedora.
-7/17/21 - Changed core image link to Fedora 32 Container
+
+7/17/21 - Changed core image link to Fedora 34 Container
 
 | | |
 | ------------ | ---------- |
