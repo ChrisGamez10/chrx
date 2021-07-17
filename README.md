@@ -6,6 +6,10 @@ This fork of chrx changes the default core image file for Fedora, so you won't k
 
 7/17/21 - Changed core image link to Fedora 34 Container
 
+HOW TO USE:
+
+Install chrx normally from reynhout's website, then after, download the chrx-install script from my GitHub repo, and type in terminal "sudo cp ~/Downloads/chrx-install /usr/local/bin"
+
 | | |
 | ------------ | ---------- |
 |**works on**|Most Chromebook models. See [chromebooks](#chromebooks).|
